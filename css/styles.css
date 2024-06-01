@@ -6,6 +6,10 @@ h1 {
 }
 
 div {
+	
+}
+
+.menu-item {
 	border: 1px solid black;
   background-color: #00072D;
   width: 90%;
@@ -16,7 +20,6 @@ div {
   font-family: Arial;
   color: white;
 }
-
 p {
   
 }
