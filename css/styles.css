@@ -10,8 +10,9 @@ div {
   background-color: #00072D;
   width: 90%;
   height: 150px;
-  margin-right: 25px;
-  margin-left: 25px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px;
   font-family: Arial;
   color: white;
 }
