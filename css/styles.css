@@ -9,7 +9,7 @@ h1 {
 h3 {
 	float:right;
 	margin:2px;
-	background-color: blue;
+	background-color: #7C7C7C;
 	border: 1px solid black;
 }
 
@@ -20,8 +20,8 @@ h3 {
   height: 150px;
   margin: 1px;
   font-family: Arial;
-  color: white;
-  padding:2px;
+  color: #EEE5E9;
+  padding: 2px;
 }
 p {
   
