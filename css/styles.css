@@ -31,7 +31,10 @@ h3 {
 p {
   position: relative;
   top: 16%;
-  padding: 15px;
+  padding-left: 15px;
+  padding-right: 15 px;
+  padding bottom: 15 px;
+  padding-top:30px;
 }
 
 /* Simple Responsive Framework. */
