@@ -8,9 +8,10 @@ h1 {
 
 h3 {
 	float:right;
-	margin:2px;
+	margin:0px;
 	background-color: #7C7C7C;
 	border: 1px solid black;
+	padding: 3px;
 }
 
 .menu-item {
